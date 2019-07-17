@@ -1,0 +1,8 @@
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\bin\Debug\WordBook.DA.exe.config
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\bin\Debug\WordBook.DA.exe
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\bin\Debug\WordBook.DA.pdb
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\bin\Debug\WordBook.BE.exe
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\bin\Debug\WordBook.BE.pdb
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\obj\Debug\WordBook.DA.csprojResolveAssemblyReference.cache
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\obj\Debug\WordBook.DA.exe
+C:\yxwang\Source Code\WPF\WordBook\WordBook.DA\obj\Debug\WordBook.DA.pdb
